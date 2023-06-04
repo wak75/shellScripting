@@ -1,8 +1,4 @@
 #/bin/bash
-
-read -p "Enter your userName: " userName
-read -ps "Enter your password: " password
+#How to take a file as input
 
 
-echo "Your userName is $userName"
-echo "yout password is $password"
